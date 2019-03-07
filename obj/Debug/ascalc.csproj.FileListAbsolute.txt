@@ -1,0 +1,10 @@
+C:\Users\aswa\source\repos\ascalc\ascalc\bin\Debug\ascalc.exe.config
+C:\Users\aswa\source\repos\ascalc\ascalc\bin\Debug\ascalc.exe
+C:\Users\aswa\source\repos\ascalc\ascalc\bin\Debug\ascalc.pdb
+C:\Users\aswa\source\repos\ascalc\ascalc\obj\Debug\ascalc.Form1.resources
+C:\Users\aswa\source\repos\ascalc\ascalc\obj\Debug\ascalc.Properties.Resources.resources
+C:\Users\aswa\source\repos\ascalc\ascalc\obj\Debug\ascalc.csproj.GenerateResource.cache
+C:\Users\aswa\source\repos\ascalc\ascalc\obj\Debug\ascalc.csproj.CoreCompileInputs.cache
+C:\Users\aswa\source\repos\ascalc\ascalc\obj\Debug\ascalc.exe
+C:\Users\aswa\source\repos\ascalc\ascalc\obj\Debug\ascalc.pdb
+C:\Users\aswa\source\repos\ascalc\ascalc\obj\Debug\ascalc.csprojAssemblyReference.cache
